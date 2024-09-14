@@ -1,4 +1,4 @@
-<img src="https://github.com/reyhanyanikoglu/assets/blob/main/7he%20R4.gif" alt="Reyhan's GIF" width="800"/>
+<img src="https://github.com/reyhanyanikoglu/assets/blob/main/7he%20R4.gif" alt="Reyhan's GIF" width="1000"/>
 
 <h1 align="center">Hi 👋, I'm Reyhan</h1>
 
