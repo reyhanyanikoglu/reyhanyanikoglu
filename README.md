@@ -1,6 +1,7 @@
 <img src="https://github.com/reyhanyanikoglu/assets/blob/main/7he%20R4.gif" alt="Reyhan's GIF" width="800"/>
 
 <h1 align="center">Hi 👋, I'm Reyhan</h1>
+
 - 🔭 I’m currently working on **React, Mern Stack**
 
 - 🌱 I’m currently learning **Firebase, MongoDB**
