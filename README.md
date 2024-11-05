@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Python, Mern Stack**
 
-- 🌱 I’m currently learning **Firebase, MongoDB**
+- 🌱 I’m currently learning **Python and AI**
 
 - 💬 Ask me about **React.js**
 
