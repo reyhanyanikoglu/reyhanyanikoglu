@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Reyhan</h1>
 
-- 🔭 I’m currently working on **Python, Mern Stack**
+- 🔭 I’m currently working on **Python, React**
 
 - 🌱 I’m currently learning **Python and AI**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **React.js, Mern Stack**
 
 - 📫 How to reach me **reyhanyankk@gmail.com**
 
