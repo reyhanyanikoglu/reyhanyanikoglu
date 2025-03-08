@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Reyhan</h1>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Typescript**
 
