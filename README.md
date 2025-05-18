@@ -23,13 +23,13 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=reyhanyanikoglu&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
+  <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyhanyanikoglu&theme=algolia&hide_border=false" alt="GitHub Streak" />
-  <br/>
+  <br/><br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanyanikoglu&theme=algolia&hide_border=false&layout=compact" alt="Top Languages" />
-  <br/>
+  <br/><br/>
 
 </div>
 
