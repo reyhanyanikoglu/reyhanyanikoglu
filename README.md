@@ -22,11 +22,14 @@
 
 <div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reyhanyanikoglu&show_icons=true&locale=en&layout=compact" alt="reyhanyanikoglu" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=reyhanyanikoglu&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reyhanyanikoglu&show_icons=true&locale=en" alt="reyhanyanikoglu" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyhanyanikoglu&theme=algolia&hide_border=false" alt="GitHub Streak" />
+  <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhanyanikoglu&" alt="reyhanyanikoglu" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanyanikoglu&theme=algolia&hide_border=false&layout=compact" alt="Top Languages" />
+  <br/>
 
 </div>
 
