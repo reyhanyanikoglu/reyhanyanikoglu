@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=500&center=true&vCenter=true&width=500&height=60&lines=Merhaba+Ben+Emre+BAH%C3%87EC%C4%B0;AI+Developer;Kod+yazmak+bir+ya%C5%9Fam+stili" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=500&center=true&vCenter=true&width=500&height=60&lines=Merhaba+Ben+Reyhan;Frontend+Developer;" alt="Typing SVG" />
 </p>
 
 <img src="https://github.com/reyhanyanikoglu/assets/blob/main/7he%20R4.gif" alt="Reyhan's GIF" width="1000"/>
