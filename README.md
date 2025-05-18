@@ -34,7 +34,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks)
 
-### 🧠 JavaScript Ecosystem
+### ⚛️ JavaScript Ecosystem
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
