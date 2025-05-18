@@ -2,13 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=500&color=DA70D6&center=true&vCenter=true&width=500&height=60&lines=Merhaba+Ben+Reyhan;Frontend+Developer;" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on **React**
+## 👨‍💻 About me
 
-- 🌱 I’m currently learning **Typescript**
+🔭 I’m currently working on **React**
 
-- 💬 Ask me about **React.js, Mern Stack**
+🌱 I’m currently learning **Typescript**
 
-- 📫 How to reach me **reyhanyankk@gmail.com**
+💬 Ask me about **React.js, Mern Stack**
+
+📫 How to reach me **reyhanyankk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
