@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=500&color=DA70D6&center=true&vCenter=true&width=500&height=60&lines=Merhaba+Ben+Reyhan;Frontend+Developer;" alt="Typing SVG" />
 </p>
 
-<img src="https://github.com/reyhanyanikoglu/assets/blob/main/7he%20R4.gif" alt="Reyhan's GIF" width="1000"/>
-
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Typescript**
@@ -25,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reyhanyanikoglu&show_icons=true&locale=en" alt="reyhanyanikoglu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhanyanikoglu&" alt="reyhanyanikoglu" /></p>
+
+<img src="https://github.com/reyhanyanikoglu/assets/blob/main/7he%20R4.gif" alt="Reyhan's GIF" width="1000"/>
+
