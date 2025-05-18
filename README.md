@@ -4,11 +4,11 @@
 
 ## 👩‍💻 About Me
 
-🔭 I’m currently working on **React**
+🔭 I’m currently working on **React.js**
 
-🌱 I’m currently learning **Typescript**
+🌱 I’m currently learning **Fluttter**
 
-💬 Ask me about **React.js, Mern Stack**
+💬 Ask me about **React.js, Mern Stack, Typescript**
 
 📫 How to reach me **reyhanyankk@gmail.com**
 
