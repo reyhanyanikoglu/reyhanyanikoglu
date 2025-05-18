@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=500&color=DA70D6&center=true&vCenter=true&width=500&height=60&lines=Merhaba+Ben+Reyhan;Frontend+Developer;" alt="Typing SVG" />
 </p>
 
-## 👨‍💻 About me
+## 👩‍💻 About Me
 
 🔭 I’m currently working on **React**
 
