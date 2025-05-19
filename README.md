@@ -51,7 +51,7 @@
 ### 🧰 Tools & APIs
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-##
+<hr>
 
 <div style="margin-bottom:10px;margin-top:10px;height:170px">
   <p valign="top" width="32%;" height="180px">
