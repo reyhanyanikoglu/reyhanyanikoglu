@@ -53,17 +53,16 @@
 
 ##
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=reyhanyanikoglu&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyhanyanikoglu&theme=algolia&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
-
+<div style="margin-bottom:10px;margin:top:10px;height:170px">
+ <p valign="top" width="32%;" height="180px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanyanikoglu&theme=algolia&hide_border=false&layout=compact" alt="Top Languages" />
-  <br/>
-
+ </p>
+ <p valign="top" width="32%;" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=reyhanyanikoglu&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+ </p>
+ <p valign="top" width="32%;" height="180px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyhanyanikoglu&theme=algolia&hide_border=false" alt="GitHub Streak" />
+ </p>
 </div>
 
 ##
