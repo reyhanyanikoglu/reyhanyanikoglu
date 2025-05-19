@@ -19,7 +19,10 @@
 
 ## Technologies & Tools
 
-### 🌐 Frontend
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
@@ -34,13 +37,8 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks)
 
-### ⚛️ JavaScript Ecosystem
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
-
 ### 🛢️ Database & Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MSSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
