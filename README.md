@@ -21,6 +21,7 @@
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
