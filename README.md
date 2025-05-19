@@ -1,12 +1,14 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
+<!--
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
+-->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=500&color=DA70D6&center=true&vCenter=true&width=500&height=60&lines=Hello+I'm+Reyhan;Frontend+Developer;" alt="Typing SVG" />
 </p>
 </div>
 
 
-## About Me
+## 👩‍💻 About Me
 
 🔭 I’m currently working on **React.js**
 
