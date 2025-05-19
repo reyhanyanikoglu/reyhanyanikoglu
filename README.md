@@ -65,8 +65,7 @@
   </p>
 </div>
 
-
-##
+<hr>
 
 <img src="https://github.com/reyhanyanikoglu/assets/blob/main/7he%20R4.gif" alt="Reyhan's GIF" width="1000"/>
 
