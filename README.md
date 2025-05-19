@@ -66,5 +66,9 @@
   </br>
 </div>
 
-<img src="https://github.com/reyhanyanikoglu/assets/blob/main/7he%20R4.gif" alt="Reyhan's GIF" width="1000" style="margin-top: 20px;" />
+<!-- Float temizliği -->
+<div style="clear: both;"></div>
+
+<!-- Sonraki görsel için boşluk -->
+<img src="https://github.com/reyhanyanikoglu/assets/blob/main/7he%20R4.gif" alt="Reyhan's GIF" width="1000" style="margin-top: 30px;" />
 
