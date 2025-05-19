@@ -64,8 +64,8 @@
     <img width="30%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=reyhanyanikoglu&theme=algolia&hide_border=false" alt="GitHub Streak" />
   </p>
 </div>
+<br/>
 
-<div style="clear: both;"></div>
 <hr>
 
 <img src="https://github.com/reyhanyanikoglu/assets/blob/main/7he%20R4.gif" alt="Reyhan's GIF" width="1000"/>
